@@ -14,6 +14,10 @@ public class Main {
 
         // ARRAYS:
         Array lista = new Array();
-        lista.test();
+        //lista.test();
+
+        // LOOPS:
+        Loop lop = new Loop();
+        lop.test();
     }
 }

@@ -10,6 +10,10 @@ public class Main {
 
         // OPERADORES ARITMETICOS:
         ArithmeticOperator operator = new ArithmeticOperator();
-        operator.test();
+        //operator.test();
+
+        // ARRAYS:
+        Array lista = new Array();
+        lista.test();
     }
 }

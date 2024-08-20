@@ -1,23 +1,21 @@
 public class Main {
     public static void main(String[] args) {
         // TIPOS PRIMITIVOS:
-        PrimitiveType primitive = new PrimitiveType();
-        //primitive.test();
+        //PrimitiveType.test();
 
         // TIPOS WRAPPER CLASS:
-        WrapperClass wrapper = new WrapperClass();
-        //wrapper.test();
+        //WrapperClass.test();
 
         // OPERADORES ARITMETICOS:
-        ArithmeticOperator operator = new ArithmeticOperator();
-        //operator.test();
+        //ArithmeticOperator.test();
 
         // ARRAYS:
-        Array lista = new Array();
-        //lista.test();
+        //Array.test();
 
         // LOOPS:
-        Loop lop = new Loop();
-        lop.test();
+        //Loop.test();
+
+        // CASTING:
+        Cast.test();
     }
 }

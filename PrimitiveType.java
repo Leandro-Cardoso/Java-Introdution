@@ -1,5 +1,5 @@
 public class PrimitiveType {
-    public static void test() {
+    public static void main(String[] args) {
         // TIPOS PRIMITIVOS:
         boolean tipo_boolean = true; // 1 bits
 

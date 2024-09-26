@@ -1,5 +1,5 @@
 public class WrapperClass {
-    public static void test() {
+    public static void main(String[] args) {
         /*
         Classes Wrapper:
         Oferece funcionalidades, metodos proprios. Já os tipos primitivos não.

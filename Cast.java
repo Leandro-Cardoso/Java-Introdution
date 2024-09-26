@@ -1,5 +1,5 @@
 public class Cast {
-    public static void test() {
+    public static void main(String[] args) {
         /*
         Casting:
         Conversão de tipos de variáveis.

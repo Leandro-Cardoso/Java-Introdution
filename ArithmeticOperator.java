@@ -1,5 +1,5 @@
 public class ArithmeticOperator {
-    public static void test() {
+    public static void main(String[] args) {
         /*
         Operadores Aritmeticos: (*, /, %, +, -)
         */

@@ -1,4 +1,4 @@
-public class Loop {
+public class Java03Loop {
     public static void main(String[] args) {
         /*
         Loop:

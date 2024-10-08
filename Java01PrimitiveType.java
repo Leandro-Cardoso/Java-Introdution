@@ -1,4 +1,4 @@
-public class PrimitiveType {
+public class Java01PrimitiveType {
     public static void main(String[] args) {
         // TIPOS PRIMITIVOS:
         boolean tipo_boolean = true; // 1 bits

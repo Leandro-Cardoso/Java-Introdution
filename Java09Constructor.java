@@ -1,4 +1,4 @@
-public class Constructor {
+public class Java09Constructor {
     public static void main(String[] args) {
         /*
          * "this" pode invocar a propria classe tambem e passar os parametros como padrão dentro de um metodo construtor sem parametros.

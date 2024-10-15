@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Java08Array {
+public class Java09Array {
     public static void main(String[] args) {
         /*
          * Array -> Lista simples e com tamanho pré estabelecido.

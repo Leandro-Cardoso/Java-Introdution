@@ -1,4 +1,4 @@
-public class Java05WrapperClass {
+public class Java06WrapperClass {
     public static void main(String[] args) {
         /*
         Classes Wrapper:

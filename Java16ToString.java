@@ -1,4 +1,4 @@
-public class Java15ToString {
+public class Java16ToString {
     public static void main(String[] args) {
         /*
          * Todos os objetos sao filhos da classe Object do Java, entao e possivel sobreescrever a descricao da classe sobreescrevendo o metodo "toString()".

@@ -1,4 +1,4 @@
-public class Java07Cast {
+public class Java05Cast {
     public static void main(String[] args) {
         /*
         Casting:

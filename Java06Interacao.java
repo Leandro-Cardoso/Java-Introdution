@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Java08Interacao {
+public class Java06Interacao {
     public static void main(String[] args) {
         /*
          * Interação com o usuário usando a classe Scanner.

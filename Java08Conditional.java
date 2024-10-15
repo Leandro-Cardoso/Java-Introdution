@@ -1,4 +1,4 @@
-public class Java04Conditional {
+public class Java08Conditional {
     public static void main(String[] args) {
         /*
          * Estrutura if else:

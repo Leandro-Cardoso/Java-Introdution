@@ -2,7 +2,7 @@
  * Esse {@code Java Docs} serve para descrever caso necessario uma classe ou um metodo. E precisa ser escrito acima da definição da classe ou metodo.
  */
 
-public class Java15Docs {
+public class Java16Docs {
     /**
      * Descrição de um metodo de exemplo.
      * Abaixo uma lista:

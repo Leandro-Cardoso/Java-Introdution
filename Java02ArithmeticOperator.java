@@ -1,8 +1,11 @@
 public class Java02ArithmeticOperator {
     public static void main(String[] args) {
         /*
-        Operadores Aritmeticos: (*, /, %, +, -)
-        */
+         * Operadores Aritmeticos: (*, /, %, +, -)
+         * Incremeto e decremento: (++var, var++, --var, var--)
+         * Para outros valores: (+=, -=, *=, /=, %=)
+         */
+
         int a = 10;
         int b = 2 * a;
         

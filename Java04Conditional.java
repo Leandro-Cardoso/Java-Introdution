@@ -10,6 +10,11 @@ public class Java04Conditional {
          * (condicao) ? verdadeiro : falso
          * 
          * E totalmente possivel encadear condicionais.
+         * 
+         * Estrutura de verificacao de condicionais:
+         * (condicao) && (condicao) -> As duas e verdadeira?
+         * (condicao) || (condicao) -> Uma das duas e verdadeira?
+         * !(condicao) -> A condicao nao e verdadeira?
          */
     }
 }

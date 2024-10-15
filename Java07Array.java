@@ -4,10 +4,20 @@ import java.util.Arrays;
 public class Java07Array {
     public static void main(String[] args) {
         /*
+         * ARRAYS:
+         * tipo[] var = new tipo[tamanho];
+         * var = new tipo[novo tamanho]; -> Mudar tamanho.
+         * 
          * Array -> Lista simples e com tamanho pré estabelecido.
          * ArrayList -> Melhor performance em pegar ou buscar valores.
          * LinkedList -> Melhor performance em adicionar ou remover elementos.
+         * 
+         * MATRIZ:
+         * tipo[][] var = new tipo[tamanho][tamanho];
+         * tipo[][] var = new tipo[tamanho][]; -> Definir depois cada array interno.
+         * var = new tipo[novo tamanho][novo tamanho]; -> Mudar tamanho.
         */
+
         // DECLARAÇÃO:
         String[] array = new String[5];
         String[] array2 = {"A", "B", "C", "D", "E"};

@@ -22,8 +22,8 @@ public class Java08Conditional {
          * switch (var) {
          *      case valor:
          *          executar
-         *          break;
-         *      default:
+         *          break; -> Interrope, se não executa os outros casos
+         *      default: -> Se não entrar em nenhum caso
          *          executar
          *          break;
          * }

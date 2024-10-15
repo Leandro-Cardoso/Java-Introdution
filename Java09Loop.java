@@ -6,6 +6,9 @@ public class Java09Loop {
          * ESTRUTURA WHILE:
          * while (condicao) {executa}
          * 
+         * ESTRUTURA DO WHILE:
+         * do {executa} while (condicao);
+         * 
          * ESTRUTURA FOR:
          * for (declaracao de var; condicao; var++) {executa}
          * 

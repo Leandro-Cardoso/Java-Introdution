@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Java18Random {
+public class Java11Random {
     public static void main(String[] args) {
         /*
          * Biblioteca Random excelente para gerar numeros aleatorios, mas não possui seguranca.

@@ -1,4 +1,4 @@
-public class Java03Constant {
+public class Java04Constant {
     private static final int ID = 59173;
     public static void main(String[] args) {
         /*

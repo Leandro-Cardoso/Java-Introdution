@@ -1,4 +1,4 @@
-public class Java02ArithmeticOperator {
+public class Java03ArithmeticOperator {
     public static void main(String[] args) {
         /*
          * Operadores Aritmeticos: (*, /, %, +, -)

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Java08Conditional {
+public class Java07Conditional {
     public static void main(String[] args) {
         /*
          * ESTRUTURA IF:

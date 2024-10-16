@@ -8,7 +8,7 @@ public class Java10TryCatch {
          * Já o "finally" e opcional, ele executa independente de ocorrer erro ou nao.
          * 
          * ESTRUTURA:
-         * try {executar} catch (excecao var) {executar} finally {executar}
+         * try {executar} catch (excecao | outra excecao var) {executar} finally {executar}
          */
 
         Scanner scanner = new Scanner(System.in);
